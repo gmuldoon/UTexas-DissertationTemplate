@@ -26,28 +26,28 @@ __and yet more fixes by Gail Muldoon (gail.muldoon@utexas.edu).__
 
 -  [Unknown contributors produced versions up to utdiss2-05.py.]
  
--  The utdiss2-06.sty is the same as utdiss2-05.py, but I removed the ``Publication No"
+-  The utdiss2-06.sty is the same as utdiss2-05.py, but I removed the "Publication No"
  line from one of the header pages. -Chad Greene, 2016.
  
--  Changed ``Co-Supervisor" formatting on the signature page. -Gail Muldoon, 2018
+-  Changed "Co-Supervisor" formatting on the signature page. -Gail Muldoon, 2018
 
 # Contents
 Together, these files can be LaTeX'd into an example PDF dissertation.
 
-# Template.tex
+## Template.tex
 Main file with all the necessary fields to edit with your info
 
-# utdiss.sty
+## utdiss.sty
 Style file with the formatting specifications. If you're so equipped, this can/should be
 edited with updates to formatting requirements. If you do so, feel free to do a pull request to incorporate your changes in this repo for future generations.
 
-# mcode.sty
+## mcode.sty
 Well-documented style file for including Matlab code in your dissertation. Written by Florian Knorn (www.florian-knorn.com).
 
-#bib.bib
+## bib.bib
 Example bibliography file used by Template.tex
 
-# Other .tex files
+## Other .tex files
 ## Sections
 Several example chapter files (beginning.tex, middle.tex, end.tex) are included to show how they can be incorporated into Template.tex
 
