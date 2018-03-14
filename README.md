@@ -1,31 +1,33 @@
 # University of Texas PhD Dissertation Template
 This repo includes an example .tex file and associated .sty files for producing a PhD Dissertation at the University of Texas at Austin. Congrats for getting to the point where you're looking for a template and godspeed during the rest of your journey.
 
-# Previous versions
+# Development
 The .sty files posted here are the work of many collaborators, some of whom are unknown. The files passed to me from those who came before were more recent than any I could find online, so I decided to post them here for future reference and collaboration. (Send pull requests with updates!)
 
-##
+## Contributors
 The preamble includes contributions from the following individuals, though I would imagine there are more anonymous contributors:
 
 __Doctoral Dissertation Format Macros for The Univ. of Texas at Austin__
      __By Young U. Ryu__
      
- and some fixes by Miguel A. Lerma (malerma@math.utexas.edu)
- and some more fixes by Craig McCluskey (mccluskey@mail.utexas.edu).
- and still more more fixes by Chad Greene
- and yet more fixes by Gail Muldoon (gail.muldoon@utexas.edu)
+__ and some fixes by Miguel A. Lerma (malerma@math.utexas.edu)__
 
- This file was first modified in October, 2001 by Craig W. McCluskey
+__ and some more fixes by Craig McCluskey (mccluskey@mail.utexas.edu) __
+__  and still more more fixes by Chad Greene __
+__  and yet more fixes by Gail Muldoon (gail.muldoon@utexas.edu). __
+
+## Contributions
+-  This file was first modified in October 2001 by Craig W. McCluskey
  to meet the Graduate School requirements of March 2001. The name of
  the file was changed to utdiss2.sty to distinguish it from the
  original utdiss.sty of June 1991 and Miguel A. Lerma's utdiss1.sty.
 
- [Unknown contributors produced versions up to utdiss2-05.py.]
+-  [Unknown contributors produced versions up to utdiss2-05.py.]
  
- The utdiss2-06.sty is the same as utdiss2-05.py, but I removed the ``Publication No"
+-  The utdiss2-06.sty is the same as utdiss2-05.py, but I removed the ``Publication No"
  line from one of the header pages. -Chad Greene, 2016.
  
- Changed ``Co-Supervisor" formatting on the signature page. -Gail Muldoon, 2018**
+-  Changed ``Co-Supervisor" formatting on the signature page. -Gail Muldoon, 2018
 
 # Contents
 Together, these files can be LaTeX'd into an example PDF dissertation.
