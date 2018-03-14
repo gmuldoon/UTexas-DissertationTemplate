@@ -34,28 +34,26 @@ __and yet more fixes by Gail Muldoon (gail.muldoon@utexas.edu).__
 # Contents
 Together, these files can be LaTeX'd into an example PDF dissertation.
 
-## Template.tex
-Main file with all the necessary fields to edit with your info
+## Tex files
+### Template.tex
+Main file with all the necessary fields to replace with your info.
 
-## utdiss.sty
+### Sections
+Several example chapter files (beginning.tex, middle.tex, end.tex) are included to show how they can be incorporated into Template.tex
+
+### Appendices
+Two appendix files (appendix1.tex, appendix2.tex) show how to include multiple appendices.
+
+## Style files
+### utdiss.sty
 Style file with the formatting specifications. If you're so equipped, this can/should be
 edited with updates to formatting requirements. If you do so, feel free to do a pull request to incorporate your changes in this repo for future generations.
 
-## mcode.sty
+### mcode.sty
 Well-documented style file for including Matlab code in your dissertation. Written by Florian Knorn (www.florian-knorn.com).
 
-## bib.bib
-Example bibliography file used by Template.tex
-
-## Other .tex files
-## Sections
-Several example chapter files (beginning.tex, middle.tex, end.tex) are included to show how they can be incorporated into Template.tex
+## Bibliography
+A sample bibliography file (bib.bib) shows how to include citations.
 
 ## Figure
 An example figure calls kitten.jpg.
-
-## Appendices
-Two appendix files (appendix1.tex, appendix2.tex) show how to include multiple appendices.
-
-# Biblopgraphy
-A sample bibliography file (bib.bib) shows how to include citations.
