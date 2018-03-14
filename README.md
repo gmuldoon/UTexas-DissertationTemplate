@@ -56,4 +56,4 @@ Well-documented style file for including Matlab code in your dissertation. Writt
 A sample bibliography file (bib.bib) shows how to include citations.
 
 ## Figure
-An example figure calls kitten.jpg.
+A cute kitten photo (kitten.jpg) is used so the List of Figures has an entry. 
