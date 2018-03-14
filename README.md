@@ -1,13 +1,12 @@
 # University of Texas PhD Dissertation Template
-This repo includes an example .tex file and associated .sty file for producing a PhD Dissertation at the University of Texas at Austin. Congrats for getting to the point where you're looking for a template and godspeed during the rest of your journey.
+This repo includes an example .tex file and associated .sty files for producing a PhD Dissertation at the University of Texas at Austin. Congrats for getting to the point where you're looking for a template and godspeed during the rest of your journey.
 
 # Previous versions
-This style file and template were adapted by Gail Muldoon in Spring 2018. The .sty file is based on utdiss2-06.sty, but has been renamed to the more generic utdiss.sty for ease of updates in the future. (Send pull requests!)
+The .sty files posted here are the work of many collaborators, some of whom are unknown. The files passed to me from those who came before were more recent than any I could find online, so I decided to post them here for future reference and collaboration. (Send pull requests with updates!)
 
 The preamble includes contributions from the following individuals, though I would imagine there are more anonymous contributors:
 
-**
- Doctoral Dissertation Format Macros for The Univ. of Texas at Austin
+**Doctoral Dissertation Format Macros for The Univ. of Texas at Austin
      By Young U. Ryu
  and some fixes by Miguel A. Lerma (malerma@math.utexas.edu)
  and some more fixes by Craig McCluskey (mccluskey@mail.utexas.edu).
@@ -24,9 +23,7 @@ The preamble includes contributions from the following individuals, though I wou
  The utdiss2-06.sty is the same as utdiss2-05.py, but I removed the ``Publication No"
  line from one of the header pages. -Chad Greene, 2016.
  
- Changed ``Co-Supervisor" formatting on the signature page.
- - Gail Muldoon, 2018
- **
+ Changed ``Co-Supervisor" formatting on the signature page. -Gail Muldoon, 2018**
 
 # Contents
 Together, these files can be LaTeX'd into an example PDF dissertation.
@@ -40,3 +37,19 @@ edited with updates to formatting requirements. If you do so, feel free to do a 
 
 # mcode.sty
 Well-documented style file for including Matlab code in your dissertation. Written by Florian Knorn (www.florian-knorn.com).
+
+#bib.bib
+Example bibliography file used by Template.tex
+
+# Other .tex files
+## Sections
+Several example chapter files (beginning.tex, middle.tex, end.tex) are included to show how they can be incorporated into Template.tex
+
+## Figure
+An example figure calls kitten.jpg.
+
+## Appendices
+Two appendix files (appendix1.tex, appendix2.tex) show how to include multiple appendices.
+
+# Biblopgraphy
+A sample bibliography file (bib.bib) shows how to include citations.
