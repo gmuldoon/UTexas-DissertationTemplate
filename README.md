@@ -2,7 +2,7 @@
 This repo includes an example .tex file and associated .sty files for producing a PhD Dissertation at the University of Texas at Austin. Congrats for getting to the point where you're looking for a template and godspeed during the rest of your journey.
 
 # Development
-The .sty files posted here are the work of many collaborators, some of whom are unknown. The files passed to me from those who came before were more recent than any I could find online, so I decided to post them here for future reference and collaboration. (Send pull requests with updates!)
+The .sty files posted here are the work of many collaborators, some of whom are unknown. The files passed to me from those who came before were more recent than any I could find online (by more than 5 years), so I decided to post them here for future reference and collaboration. Send pull requests with updates!
 
 ## Contributors
 The preamble includes contributions from the following individuals, though I would imagine there are more anonymous contributors:
@@ -10,11 +10,13 @@ The preamble includes contributions from the following individuals, though I wou
 __Doctoral Dissertation Format Macros for The Univ. of Texas at Austin__
      __By Young U. Ryu__
      
-__ and some fixes by Miguel A. Lerma (malerma@math.utexas.edu)__
+__and some fixes by Miguel A. Lerma (malerma@math.utexas.edu)__
 
-__ and some more fixes by Craig McCluskey (mccluskey@mail.utexas.edu) __
-__  and still more more fixes by Chad Greene __
-__  and yet more fixes by Gail Muldoon (gail.muldoon@utexas.edu). __
+__and some more fixes by Craig McCluskey (mccluskey@mail.utexas.edu)__
+
+__and still more more fixes by Chad Greene__
+
+__and yet more fixes by Gail Muldoon (gail.muldoon@utexas.edu).__
 
 ## Contributions
 -  This file was first modified in October 2001 by Craig W. McCluskey
