@@ -4,10 +4,12 @@ This repo includes an example .tex file and associated .sty files for producing 
 # Previous versions
 The .sty files posted here are the work of many collaborators, some of whom are unknown. The files passed to me from those who came before were more recent than any I could find online, so I decided to post them here for future reference and collaboration. (Send pull requests with updates!)
 
+##
 The preamble includes contributions from the following individuals, though I would imagine there are more anonymous contributors:
 
-**Doctoral Dissertation Format Macros for The Univ. of Texas at Austin
-     By Young U. Ryu
+__Doctoral Dissertation Format Macros for The Univ. of Texas at Austin__
+     __By Young U. Ryu__
+     
  and some fixes by Miguel A. Lerma (malerma@math.utexas.edu)
  and some more fixes by Craig McCluskey (mccluskey@mail.utexas.edu).
  and still more more fixes by Chad Greene
